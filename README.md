@@ -1,15 +1,7 @@
 # droplr Puppet Module for Boxen
 
-[![Build Status](https://travis-ci.org/boxen/puppet-droplr.png?branch=master)](https://travis-ci.org/boxen/puppet-droplr)
+Deprecated in favour of [brewcask][1] and [Boxen's in built support for
+homebrew/brewcask][2].
 
-## Usage
-
-```puppet
-include droplr
-```
-
-## Required Puppet Modules
-
-* boxen
-* stdlib
-
+[1]: https://caskroom.github.io/
+[2]: https://git.io/v6NlB
